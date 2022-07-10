@@ -3,3 +3,6 @@ git remote set-url origin git@github.com:vipuljainvjj/gitbasics.git
 
 -- adding remote repository
 git remote add origin https://github.com/vipuljainvjj/gitbasics.git
+
+-- command to generate sshkey
+ssh-keygen
